@@ -1,3 +1,7 @@
+# Author: Arsene Bwasisi
+# Description: Open this file on your computer terminal and play game
+#              of rock, paper, scissors with the program! 
+
 import random
 
 def game(choices, score1=0, score2=0):

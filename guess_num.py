@@ -1,3 +1,7 @@
+# Author: Arsene Bwasisi
+# Description: Open this file on your computer terminal and play game
+#              of guess the number with the program! 
+
 import random
 
 name = input("Hello, what's your name?: ")
